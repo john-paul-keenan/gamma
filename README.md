@@ -1,4 +1,4 @@
-# Alapha API
+# Gamma API
 
 This is an example API repo. The repo will hold an entire APIm but for this demo, we are only going to be using the `workspaces` directory. 
 
